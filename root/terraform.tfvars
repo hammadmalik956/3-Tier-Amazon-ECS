@@ -1,0 +1,7 @@
+vpc_region    = "us-east-1"
+ecs_sg        = "sg-0fca9362129f79f78"
+ec2_type      = "t2.medium"
+ec2_ami       = "ami-0906a0047c1ebc062"
+iam_role_name = "ecsInstanceRole"
+key_name ="hammad-eurus"
+task_def_arn ="arn:aws:ecs:us-east-1:489994096722:task-definition/again-ecs:5"
